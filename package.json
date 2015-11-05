@@ -1,0 +1,28 @@
+{
+  "name": "udportfolio",
+  "version": "1.0.0",
+  "description": "Cams portfolio needs some speeding up.",
+  "main": "./building/index.html",
+  "scripts": {
+    "test": "console.log(\"hello world\");"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JWarren360/CamPortfolio.git"
+  },
+  "author": "udacity",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JWarren360/CamPortfolio/issues"
+  },
+  "homepage": "https://github.com/JWarren360/CamPortfolio#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-inline-css": "^3.0.0",
+    "gulp-jshint": "^1.12.0",
+    "gulp-minify-html": "^1.0.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.4.2"
+  }
+}
